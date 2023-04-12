@@ -1,0 +1,3 @@
+big_sleep==0.9.1
+googletrans==3.0.0
+Click==8.0
